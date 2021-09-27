@@ -11,7 +11,7 @@ Description: This dataset contains:
 	- Python functions for the new scale-selective approach to forecast flood map evaluation.
   - SAR-derived observed flood maps used in the study. 
 
-Cite as: Helen Hooker (2021): Spatial scale evaluation of forecast flood inundation maps: SAR-derived floodmaps and code. University of Reading. DOI: https://doi.org/10.5281/zenodo.5529744
+Cite as: Helen Hooker (2021): Spatial scale evaluation of forecast flood inundation maps: SAR-derived floodmaps and code. Zenodo. DOI: https://doi.org/10.5281/zenodo.5529744
 
 Related publications:
 
